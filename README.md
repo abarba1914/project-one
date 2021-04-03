@@ -32,6 +32,11 @@ https://gist.github.com/afhaque/60558290d6efd892351c4b64e5c01e9b for labels
     
     - Do certain zip codes have a higher percentage of their population vaccinated? 
     
-    
+Per Capita Income by Zipcode
+![map (6)](https://user-images.githubusercontent.com/68086211/113487734-5273a480-947f-11eb-85bf-a50d056dd0d4.png)
+
+Percentage of Population with 1 Dose by Zipcode
+![map (5)](https://user-images.githubusercontent.com/68086211/113487739-599ab280-947f-11eb-9792-cb8e16f4768d.png)
+
     
 
